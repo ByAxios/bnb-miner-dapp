@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# BNB MINER DAPP CLONE
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![alt text](https://raw.githubusercontent.com/ByAxios/bnb-miner-dapp/master/screenshot.jpg)
 
 ## Available Scripts
 
